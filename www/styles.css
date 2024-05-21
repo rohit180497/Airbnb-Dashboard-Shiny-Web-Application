@@ -1,0 +1,24 @@
+/* styles.css */
+
+/* Example styles */
+.header-panel {
+    font-family: Times New Roman;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Add more styles as needed */
+
+/* Custom styling for filters */
+.filters {
+  background-color: #f8f9fa; /* Background color */
+  padding: 10px; /* Add padding */
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 5px 5px 5px #888888; /* Add shadow */
+}
+
+/* Style for individual filter elements */
+.filter-item {
+  margin-right: 20px; /* Add margin between filter items */
+}
