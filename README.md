@@ -31,11 +31,11 @@ To run this Shiny application locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/airbnb-profitability-austin.git
+   git clone https://github.com/rohit180497/Airbnb-Dashboard-Shiny-Web-Application.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd airbnb-profitability-austin
+   cd Airbnb-Dashboard-Shiny-Web-Application
    ```
 3. **Install the required packages:**
    ```R
